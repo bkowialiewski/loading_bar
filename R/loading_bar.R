@@ -1,3 +1,4 @@
+#' @export
 loading_bar = function(start, end, current) {
 
     n = 40
